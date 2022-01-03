@@ -18,3 +18,7 @@ I'm new to working with front-end developer. I want to continue learning new thi
 ## Education
 * HTML(CodeBasics)
 * CSS(CodeBasics)
+
+## Languages
+* Russian
+* English(B1)
