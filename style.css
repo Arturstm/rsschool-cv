@@ -165,7 +165,8 @@ html {
 }
 .footer {
     background-color: #474747;
-    padding: 10px;  
+    margin-top: 35px;
+    padding-top: 3px;
   }
 .rss {
     width: 150px;
