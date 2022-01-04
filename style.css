@@ -176,7 +176,31 @@ html {
     background-repeat: no-repeat;
   }
 @media (max-width: 768px) {
-    .section {
-      width: 100%;
+.section {
+    width: 100%;
     }
+  }
+@media (max-width: 500px) {
+.section-sub {
+  width: 100%;
+  margin-top: -25px;
+  color: #363636;
+  line-height: 30px;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+.section-contacts-title {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0px;
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+  align-content: flex-end;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
   }
